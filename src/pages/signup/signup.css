@@ -1,0 +1,16 @@
+.form {
+	position: absolute;
+	top: 35%;
+	left: 37%;
+	width: 26%;
+}
+
+.ant-form-item-label > label {
+	color: #f1cd3b;
+	font-size: 1rem;
+}
+
+.inputValue {
+	color: #f1cd3b;
+	font-size: 1rem;
+}
